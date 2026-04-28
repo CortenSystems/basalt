@@ -60,7 +60,7 @@ Every security property is formally proved before the covering module ships to i
 
 | Name | Gen | Node | Frequency | IPC | Cores | TDP |
 |--|--|--|--|--|--|--|
-| **Basalt** | 1 | TSMC N7 / GF 28nm | 4.2–4.4 GHz | 4.8 | 1–4 | 35W |
+| **Basalt** | 1 | TSMC N7 | 4.2–4.4 GHz | 4.8 | 1–4 | 35W |
 | Flux | 2 | TSMC N5 / N4P | 5.4–5.8 GHz | 6.2 | 4–16 | 55W |
 | Obsidian | 3 | TSMC N3E | 6.2–6.8 GHz | 7.8 | 8–32 | 80W |
 | Temper | 4 | TSMC N2 | 7.2–7.8 GHz | 9.5 | 16–64 | 120W |
